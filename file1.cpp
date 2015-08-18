@@ -2,6 +2,7 @@
 int main()
 {
 cout<<"hi";
-cout<<"Cummins college!!";
+cout<<" \n welcome";
+cout<<" \n Pune";
 return 0;
 }
